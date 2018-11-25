@@ -1,6 +1,5 @@
 # Product requirements
 
-|         |            |
 | ------------- |:-------------:|
 | Target release      |  |
 | Epic      |  未定    |
@@ -11,29 +10,33 @@
 | QA | Observer-L      |
 
 ## Goals
-1. 
+1. 未同学提供一个自动调灯光亮度的api
 
 ## Background and strategic fit
-1.
-2. 
+1.半夜起身上厕所，经常被突然间的灯光闪到眼睛，会间接影响到接下来的睡眠质量。
+2.灯光亮度不同可以起到一个间接闹钟的作用。
+3.充当小夜灯的作用，半夜起身不会被绊倒。
 
 ## Assumptions
-1. 
-2. 
+1. 用户主要是从手机app上访问该功能 
 
 ## Requirements
 |    #     |    Title     |       User story     |      Importance     |      Notes     |
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
-| 1         |故事1         |     | Must Have |                  |
+| 1        |午夜惊醒    | 有一次，半夜被憋醒，急匆匆下床，没看清，一脚踩空，得亏求生欲望比较强烈，双手紧紧抱住扶手。   | Must Have |                小夜灯功能支持，但又不至于太亮，影响其他舍友的休息。  |
+|2|午夜惊醒(续篇)|下床后还没从刚才的惊吓中缓过神来，一打开厕所的灯啊！要瞎了，太亮了。虽然就当下刺激了那么一下，很快就适应亮度了。可是我醒了，睡不着啦！！！｜Must Have｜通过调节光的亮度，可以让眼睛有一个缓冲期，避免刺激到眼部｜
+|3|都是闹钟惹的祸|为了让自己的睡眠质量能够有所提高，我们避免阳光过早进入我们的视线，拉上窗帘睡觉。反正有闹钟不是吗，安心睡吧。 好吧，睡的真真安心，一节课过去了....闹钟啊闹钟你咋不叫我呢！！|Must Have｜多方位叫醒我们起床神器，通过设置某个时间亮度亮起来达到一个刺激我们起床的｜
 
 ## User interaction and design
+时间识别，声音识别，自然语言处理
+
 
 ## Questions
 |    Question     |       Outcome     |
 | ------------- |:-------------:|
 | Copyright Issue      |       |
-| image and text may include potentially sensitive content      |  using Baidu's image & text censoring APIs     |
+|  声音识别类型比较多，容易弄混  |  可以通过设置时间趋度区分 |
 
 
 ## Not doing
-* provides both free(watermark) and paid features to users
+* 未确定
