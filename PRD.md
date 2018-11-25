@@ -1,6 +1,5 @@
 # Product requirements
-
-| ------------- |:-------------:|
+｜               ｜              ｜
 | Target release      |  |
 | Epic      |  未定    |
 | Document status |   Not started      |
