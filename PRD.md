@@ -1,7 +1,7 @@
 # Product requirements
-
+|       |         |
 | ------------- |:-------------:|
-| Target release |      |
+| Target release  |
 | Epic      |  sticker/meme generator      |
 | Document status | Not started      |
 |Document owner|杨欣敏|
