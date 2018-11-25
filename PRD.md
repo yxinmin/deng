@@ -1,5 +1,5 @@
 # Product requirements
-|         |            |
+
 | ------------- |:-------------:|
 | Target release       |
 | Epic      |  sticker/meme generator      |
@@ -10,7 +10,7 @@
 | QA |      |
 
 ## Goals
-1. 未同学提供一个自动调灯光亮度的api
+1. 为同学提供一个自动调灯光亮度的api
 
 ## Background and strategic fit
 * 1.半夜起身上厕所，经常被突然间的灯光闪到眼睛，会间接影响到接下来的睡眠质量。
@@ -18,7 +18,7 @@
 * 3.充当小夜灯的作用，半夜起身不会被绊倒。
 
 ## Assumptions
-*1. 用户主要是从手机app上访问该功能 
+* 1. 用户主要是从手机app上访问该功能 
 
 ## Requirements
 |    #     |    Title     |       User story     |      Importance     |      Notes     |
@@ -34,7 +34,6 @@
 ## Questions
 |    Question     |       Outcome     |
 | ------------- |:-------------:|
-| Copyright Issue      |       |
 |  声音识别类型比较多，容易弄混  |  可以通过设置时间趋度区分 |
 
 
