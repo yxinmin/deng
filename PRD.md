@@ -2,7 +2,7 @@
 |       |         |
 | ------------- |:-------------:|
 | Target release  |11-25-2018|
-| Epic      |  sticker/meme generator      |
+| Epic      |  灯光调节      |
 | Document status | Not started      |
 |Document owner|杨欣敏|
 | Designer      |  |
