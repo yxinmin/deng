@@ -1,7 +1,7 @@
 # Product requirements
 |       |         |
 | ------------- |:-------------:|
-| Target release  |
+| Target release  |11-25-2018|
 | Epic      |  sticker/meme generator      |
 | Document status | Not started      |
 |Document owner|杨欣敏|
